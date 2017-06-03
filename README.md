@@ -1,3 +1,1 @@
 # XZnod
-
-Saturday session.
